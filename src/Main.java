@@ -3,5 +3,9 @@ public class Main {
 
         System.out.println("Manuel Eduardo Alarcon Aza");
         System.out.println("Vivo en Tabio");
+
+        System.out.println("puse un color");
+
+        System.out.println("se debe revisar el tipo de letra del boton ");
     }
 }
